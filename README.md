@@ -1,5 +1,5 @@
 # Movie-menu-scroll
-This is a simple looking piece of UI, but it is incredibly complex. Use html, CSS, Javascript to build this UI component.
+This is a simple looking piece of UI, but it is incredibly complex. Use HTML, CSS, Javascript to build this UI component.
 ## To build
 1.Open this project and click to Go Live from the status bar to turn the server on.
 2.Click the left arrow or right arrow
